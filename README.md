@@ -1,4 +1,5 @@
-# wikipedia-app
+# Build a Wikipedia Viewer
+
 FCC Wikipedia API Search Project
 
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/wGqEga/.
